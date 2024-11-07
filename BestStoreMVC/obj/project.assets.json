@@ -4044,11 +4044,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Csharp\\BestStoreMVC_4\\BestStoreMVC\\BestStoreMVC.csproj",
+      "projectUniqueName": "D:\\Csharp\\BestStoreMVC_5\\BestStoreMVC\\BestStoreMVC.csproj",
       "projectName": "BestStoreMVC",
-      "projectPath": "D:\\Csharp\\BestStoreMVC_4\\BestStoreMVC\\BestStoreMVC.csproj",
+      "projectPath": "D:\\Csharp\\BestStoreMVC_5\\BestStoreMVC\\BestStoreMVC.csproj",
       "packagesPath": "C:\\Users\\vivobook\\.nuget\\packages\\",
-      "outputPath": "D:\\Csharp\\BestStoreMVC_4\\BestStoreMVC\\obj\\",
+      "outputPath": "D:\\Csharp\\BestStoreMVC_5\\BestStoreMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vivobook\\AppData\\Roaming\\NuGet\\NuGet.Config",
